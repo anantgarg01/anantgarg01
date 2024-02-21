@@ -8,7 +8,7 @@
 
 📫 How to reach me anantgarg200@gmail.com
 
-👀 I’m interested in Frontend development Software Developer FullStack Developer
+👀 I’m interested in Frontend Developer, Software Developer, FullStack Developer
 
 
 
