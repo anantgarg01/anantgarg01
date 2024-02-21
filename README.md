@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @anantgarg01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+                    Hello there I'm Anant Garg
+                    A passionate Web developer
+                    
+
+🌱 I’m currently learning Web Development(Back-End)
+
+👨‍💻 All of my projects are available at https://github.com/anantgarg01
+
+📫 How to reach me anantgarg200@gmail.com
+
+👀 I’m interested in Frontend development Software Developer FullStack Developer
+
+
 
 <!---
 anantgarg01/anantgarg01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
